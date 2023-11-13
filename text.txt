@@ -1,0 +1,10 @@
+estoy en el branch C
+git checkout -b features/C
+se trabajan todos los cambios
+git checkout develop
+git pull origin develop
+git checkout -b features/changes
+git cherry-pick id (commit)
+-delete the branch that i was making changes in this case is features/C
+
+to fast thinhs you can use stash appy
